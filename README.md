@@ -2,7 +2,7 @@
 
 ## Contact
 
-Talk to me on my <a href="https://www.linkedin.com/in/chrisb33/">LinkedIn</a>
+Talk to me on my <a href="https://www.linkedin.com/in/chrisb33/">LinkedIn</a>.<br>
 My email is brophy.c03@gmail.com ✉️
 
 ## Stats
