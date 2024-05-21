@@ -14,5 +14,5 @@ My email is brophy.c03@gmail.com ✉️
 ## Interests
 
 - I always like starting new projects with new languages and technologies 💻
-- I enjoy playing Dungeons and Dragons too 🎲
+- I enjoy playing video games and Dungeons and Dragons 🎲
 - And I take any opportunity to travel I can ✈️
