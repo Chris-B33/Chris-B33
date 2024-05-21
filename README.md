@@ -1,6 +1,8 @@
 # Hi, I'm Chris 👋
 
-I'm a student at UL studying AIML. 
+## About me
+
+I'm a 2nd year at UL studying AIML and I'm from county Cork.
 
 ## Stats
 
@@ -12,8 +14,9 @@ I'm a student at UL studying AIML.
 
 Talk to me on my <a href="https://www.linkedin.com/in/chrisb33/">LinkedIn</a>.<br>
 My email is brophy.c03@gmail.com ✉️
+
 ## Interests
 
 - I always like starting new projects with new languages and technologies 💻
-- I enjoy playing video games and Dungeons and Dragons 🎲
+- I enjoy playing video games, Magic the Gathering and Dungeons and Dragons 🎲
 - And I take any opportunity to travel I can ✈️
