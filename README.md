@@ -6,7 +6,7 @@ I'm a 2nd year at UL studying AIML and I'm from County Cork.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chris-B33&theme=midnight-purple&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris-B33&layout=compact&langs_count=6&card_width=410&theme=midnight-purple&size_weight=0.2&count_weight=0.8" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chris-B33&layout=compact&langs_count=6&card_width=410&theme=midnight-purple&size_weight=0.5&count_weight=0.5" />
 
 ## Interests
 
