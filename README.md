@@ -10,7 +10,7 @@ I'm a 2nd year at UL studying AIML and I'm from County Cork.
 ## Interests
 
 - I always like starting new projects with new languages and technologies 💻
-- I enjoy playing video games, Magic the Gathering and Dungeons and Dragons 🎲
+- I enjoy playing video games, Dungeons and Dragons and Magic the Gathering 🎲
 - I take any opportunity to travel I can ✈️
 
 ## Contact
