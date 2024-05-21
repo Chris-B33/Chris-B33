@@ -1,7 +1,5 @@
 # Hi, I'm Chris 👋
 
-## About me
-
 I'm a 2nd year at UL studying AIML and I'm from County Cork.
 
 ## Stats
