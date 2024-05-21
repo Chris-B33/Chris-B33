@@ -1,4 +1,4 @@
-# Hi, I'm Chris
+# Hi, I'm Chris 👋
 
 ## Contact
 
@@ -15,4 +15,4 @@ My email is brophy.c03@gmail.com ✉️
 
 - I always like starting new projects with new languages and technologies 💻
 - I enjoy playing Dungeons and Dragons too 🎲
-- And if I take any opportunity to travel I can ✈️
+- And I take any opportunity to travel I can ✈️
