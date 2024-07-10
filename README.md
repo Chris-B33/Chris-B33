@@ -4,7 +4,7 @@ I'm a 2nd year at UL studying AIML and I'm from County Cork.
 
 ## Stats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chris-B33&theme=midnight-purple&mode=weekly&card_width=450" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chris-B33&theme=midnight-purple&mode=weekly&card_width=470" alt="GitHub Streak" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chris-B33" alt="Chris-B33" />
 
