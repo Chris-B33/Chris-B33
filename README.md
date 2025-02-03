@@ -1,12 +1,6 @@
 # Hi, I'm Chris 👋
 
-I'm a 3rd year student studying AIML at UL and I'm from County Cork.
-
-## Stats
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Chris-B33&theme=midnight-purple&mode=weekly&card_width=470" alt="GitHub Streak" /></a>
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Chris-B33" alt="Chris-B33" />
+I'm a 3rd year student studying AIML at UL and I'm from county Cork.
 
 ## Technologies
 <p align="center">
@@ -19,7 +13,7 @@ I'm a 3rd year student studying AIML at UL and I'm from County Cork.
 ## Interests
 
 - I always like starting new projects with new languages and technologies 💻
-- I enjoy playing video games, Dungeons and Dragons and Magic the Gathering 🎲
+- I enjoy playing video games, Dungeons and Dragons, surfing and volleyball 🎲
 - I take any opportunity to travel I can ✈️
 
 ## Contact
