@@ -1,6 +1,6 @@
 # Hi, I'm Chris 👋
 
-I'm a 3rd year student studying AIML at UL and I'm from county Cork.
+I'm the 3rd year class rep of AIML at UL and I'm from county Cork.
 
 ## Technologies
 <p align="center">
